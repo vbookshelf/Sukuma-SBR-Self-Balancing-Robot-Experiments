@@ -11,7 +11,6 @@ Sukuma means "stand up" in Zulu. This repo contains my experiments with Sukuma-1
 
 - A craft shop is a good place to source materials for a robot because you can be buy MDF board and other bits and pieces in small quantities. I made the wheels by sticking two MDF coasters together with super glue and then drilling a hole through the center. The hole is 0.5mm less than the diameter of the motor shaft. This allowed the wheel to be press fit onto the motor shaft.
 
-- Proto board exists that has the same layout as a breadboard. Using this would make transferring designs from a breadboard to a protoboard so much easier. If I could I would have PCB's made that have the same layout as a breadboard. 
 
 <br>
 
