@@ -5,5 +5,6 @@ Sukuma means "stand up" in Zulu. This repo contains my experiments with Sukuma-1
 - Unipolar stepper motors
 - MPU6050 IMU (Gyroscope and Accelerometer)
 - PID Control
+- Arduino Interrupts
 
 In progress...
