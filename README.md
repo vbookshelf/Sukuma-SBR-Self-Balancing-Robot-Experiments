@@ -6,6 +6,7 @@ Sukuma means "stand up" in Zulu. This repo contains my experiments with Sukuma-1
 - MPU6050 IMU (Gyroscope and Accelerometer)
 - PID Control
 - Arduino Interrupts
+- Using millis() instead of delay()
 
 ### Lessons Learned
 
