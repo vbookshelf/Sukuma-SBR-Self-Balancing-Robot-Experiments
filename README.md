@@ -1,5 +1,8 @@
 ## Sukuma - Self Balancing Robot Experiments
-Sukuma means "stand up" in Zulu. This repo contains my experiments with Sukuma-1, a self balancing robot I built at home. This project is a way for me to learn and practically implement the following electronic components and concepts:
+
+In progress...
+
+Sukuma means "stand up" in Zulu. This repo contains my experiments with Sukuma-1. This project is a way for me to learn and practically implement the following electronic components and concepts:
 
 - Bipolar stepper motors
 - Unipolar stepper motors
@@ -15,4 +18,4 @@ Sukuma means "stand up" in Zulu. This repo contains my experiments with Sukuma-1
 
 <br>
 
-In progress...
+
