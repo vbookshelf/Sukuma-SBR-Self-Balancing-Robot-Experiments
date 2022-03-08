@@ -1,4 +1,4 @@
-## Sukuma - Self Balancing Robot Experiments
+## Sukuma SBR - Self Balancing Robot Experiments
 
 In progress...
 
