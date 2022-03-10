@@ -1,6 +1,11 @@
 ## Sukuma SBR - Self Balancing Robot Experiments
 
-In progress...
+Build in progress...
+
+<br>
+<img src="https://github.com/vbookshelf/Sukuma-SBR-Self-Balancing-Robot-Experiments/blob/main/images/sukuma-pic1.jpg" width="400"></img>
+<i>The robot can't stand up yet... Run Forest run!</i><br>
+<br>
 
 Sukuma means "stand up" in Zulu. This project is a way for me to learn and practically implement the following electronic components and concepts:
 
