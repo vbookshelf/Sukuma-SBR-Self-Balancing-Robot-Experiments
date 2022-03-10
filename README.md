@@ -18,4 +18,13 @@ Sukuma means "stand up" in Zulu. This project is a way for me to learn and pract
 
 <br>
 
+## Experiments
+
+- Exp_01 - Simple test 28BYJ-48 unipolar stepper motor<br>
+https://github.com/vbookshelf/Sukuma-SBR-Self-Balancing-Robot-Experiments/tree/main/Exp_01-test-28BYJ48-stepper-motor
+
+
+<br>
+
+
 
