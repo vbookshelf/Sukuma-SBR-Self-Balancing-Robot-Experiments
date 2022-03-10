@@ -24,12 +24,12 @@ Please refer the the attached pdf file: Notes 28BYJ48 Stepper Motor.pdf
 
 ## Reference Resources
 
-- DroneBot Workshop<br>
+DroneBot Workshop<br>
 Stepper Motors with Arduino - Controlling Bipolar & Unipolar stepper
 motors<br>
 https://www.youtube.com/watch?v=0qwrnUeSpYQ<br>
 
-- This tutorial by Modest Maker shows how to control the stepper
+This tutorial by Modest Maker shows how to control the stepper
 motor without using a library. He shows animations that clearly show
 the sequence in which the coils are activated.<br>
 Chapter 10 - Exploring Stepper Motors (28-BYJ-48) with an Arduino<br>
