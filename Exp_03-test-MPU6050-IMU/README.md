@@ -1,4 +1,4 @@
-## Exp_03 - Test MPU6050 IMU and get gyyroscope and accelerometer data via I2C
+## Exp_03 - Test MPU6050 IMU and get gyroscope and accelerometer data via I2C
 <br>
 
 <br>
