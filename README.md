@@ -25,5 +25,5 @@ https://github.com/vbookshelf/Sukuma-SBR-Self-Balancing-Robot-Experiments/tree/m
 - Exp_02 - Run two 28BYJ-48 unipolar stepper motors<br>
 https://github.com/vbookshelf/Sukuma-SBR-Self-Balancing-Robot-Experiments/tree/main/Exp_02-run-two-28BYJ48-stepper-motors<br>
 
-
-
+- Exp_03 - Test MPU6050 IMU and get gyyroscope and accelerometer data via I2C<br>
+https://github.com/vbookshelf/Sukuma-SBR-Self-Balancing-Robot-Experiments/tree/main/Exp_03-test-MPU6050-IMU
