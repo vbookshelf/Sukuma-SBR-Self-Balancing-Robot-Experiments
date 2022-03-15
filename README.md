@@ -27,3 +27,6 @@ https://github.com/vbookshelf/Sukuma-SBR-Self-Balancing-Robot-Experiments/tree/m
 
 - Exp_03 - Test MPU6050 IMU and get gyyroscope and accelerometer data via I2C<br>
 https://github.com/vbookshelf/Sukuma-SBR-Self-Balancing-Robot-Experiments/tree/main/Exp_03-test-MPU6050-IMU
+
+- Exp_04 - Calculate angles using gyroscope and accelerometer data (MPU6050) [Failed Experiment]<br>
+https://github.com/vbookshelf/Sukuma-SBR-Self-Balancing-Robot-Experiments/tree/main/Exp_04-calculate-angles-using-gyro-and-accel-data
