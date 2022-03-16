@@ -30,3 +30,6 @@ https://github.com/vbookshelf/Sukuma-SBR-Self-Balancing-Robot-Experiments/tree/m
 
 - Exp_04 - Calculate angles using gyroscope and accelerometer data (MPU6050) [Failed Experiment]<br>
 https://github.com/vbookshelf/Sukuma-SBR-Self-Balancing-Robot-Experiments/tree/main/Exp_04-calculate-angles-using-gyro-and-accel-data
+
+- Exp_05 - Test the HC-SR04 distance sensor with the NewPing library<br>
+https://github.com/vbookshelf/Sukuma-SBR-Self-Balancing-Robot-Experiments/tree/main/Exp_05-test-ultrasonic-distance-sensor-with-newping-library
